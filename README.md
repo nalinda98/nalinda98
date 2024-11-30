@@ -56,37 +56,59 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" alt="angular" width="40" height="40"/>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
+    </a>  
+	  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
+    </a>   
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="python" width="40" height="40"/>
     </a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
     </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="typescript" width="40" height="40"/>
     </a>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="c" width="40" height="40"/>
     </a>
+	<br/>	
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Angular-Light.svg" alt="angular" width="40" height="40"/>
+    </a>
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Light.svg" alt="vuejs" width="40" height="40"/>
+    </a>
+	   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
     </a>
-	<br/>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Electron.svg" alt="electron" width="40" height="40"/>
+	  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+	<br/>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40"/>
     </a>
-	<br/>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/>
-    </a>	
-		  <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/>
     </a>
 	<br/>
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+<br/>
+	  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Light.svg" alt="aws" width="40" height="40"/>
     </a>
  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -96,51 +118,37 @@
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GCP-Light.svg" alt="gcp" width="40" height="40"/>
     </a>
 	<br/>
+	   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/>
+    </a>	
+		  <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
+    </a>
+	    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+	<br/>
+	    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Light.svg" alt="linux" width="40" height="40"/>
     </a>
+ 	<br/>
+    	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Electron.svg" alt="electron" width="40" height="40"/>
+    </a>
+   
 	<br/>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
-    </a>
-	    <br/>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/>
-    </a>
+ 
+   
+
+    
   
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Light.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Light.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactiveX-Light.svg" alt="reactnative" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
-    </a>
-    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Light.svg" alt="vuejs" width="40" height="40"/>
-    </a>
+    
 </p>
 
 
