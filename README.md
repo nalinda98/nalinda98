@@ -4,15 +4,17 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Intend**
+- 🔭 I’m currently working on **BuildZone IT Solutions**
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://nalinda98.github.io/Portfolio/](https://nalinda98.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://nalinda98.github.io/Portfolio/)
 
 - 💬 Ask me about **React, Express JS, MongoDB**
 
 - 📫 How to reach me **nalinda@buildzoneit.com**
+  
+- 📄 Know about my experiences [my resume](https://nalinda98.github.io/Portfolio/assets/Nalinda%20Deshapriya.pdf)
 
 - ⚡ Fun fact **I think I am funny**
 
